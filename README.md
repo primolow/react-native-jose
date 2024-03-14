@@ -13,4 +13,4 @@ See the [node-jose](https://github.com/cisco/node-jose) documentation.
 
 ## Installation
 
-`npm install git+https://github.com/hellojoko/react-native-jose`
+`npm install git+https://github.com/primolow/react-native-jose`
